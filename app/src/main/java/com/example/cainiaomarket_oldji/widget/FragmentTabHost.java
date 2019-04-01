@@ -4,6 +4,8 @@ package com.example.cainiaomarket_oldji.widget;
 
 /**
  * Created by oldji
+ * FragmentTabHost本为v4自带文件，但为了一些需求自己改写并存放于本地
+ * 原生缺点：每次都会重新初始化一次Fragment
  * 功能描述：修改过的FragmentTabHost,保存fragment实例不销毁
  */
 /*

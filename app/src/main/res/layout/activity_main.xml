@@ -4,9 +4,6 @@
     tools:context=".MainActivity"
     android:orientation="vertical">
 
-
-
-
     <FrameLayout
         android:id="@+id/realtabcontent"
         android:layout_width="fill_parent"
